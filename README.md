@@ -3,7 +3,7 @@ This is a final project for my Intro to Data Science class. My project uses a Ka
 
 # Graphs and Tables 
 
-<img src="https://github.com/javierrios1738-debug/Final-Project/blob/main/How%20Far%20Off%20Was%20I.png "How Far Off">
+<img src="https://github.com/javierrios1738-debug/Final-Project/blob/main/How%20Far%20Off%20Was%20I.png>
 
 
 
