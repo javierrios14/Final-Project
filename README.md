@@ -1,3 +1,16 @@
+## Project Overview
+This project analyzes whether financial fundamentals can predict stock performance using S&P 500 data (2010–2016).
+
+## Tools Used
+- R (linear regression, data analysis)
+- Excel (data cleaning)
+- Data visualization (ggplot2, gtsummary)
+
+## Key Findings
+- Earnings Per Share (EPS) was the strongest predictor of stock returns
+- Model showed very low predictive power (R² = 0.0007), highlighting market complexity
+- Demonstrates limitations of using financial fundamentals alone for prediction
+
 # Final-Project
 This is a final project for my Intro to Data Science class. My project uses a Kaggle stock market dataset on S&P 500 companies from 2010 to 2016.
 
